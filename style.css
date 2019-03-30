@@ -32,6 +32,8 @@ body {
   margin: 0;
 
   height: 100vh;
+  background-color: -webkit-linear-gradient(to right, #24c7dc9d, #514a9da6);
+  background-image: url(./img/cover.jpg);
 
   background-image: linear-gradient(to right, #49a09d9d, #602c82a6),
     url(./img/cover.jpg);
