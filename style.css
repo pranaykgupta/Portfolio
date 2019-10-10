@@ -1,4 +1,3 @@
-
 *,
 *::after,
 *::before {
@@ -6,9 +5,13 @@
   padding: 0;
   box-sizing: inherit;
 }
+.navbar-fixed-top.scrolled {
+  background-color: black !important;
+  transition: background-color 200ms linear;
+}
 
 body {
-  font-family: 'Mansalva', cursive;
+  font-family: "Mansalva", cursive;
   font-weight: 400;
   /*font-size: 16px;*/
   line-height: 1.7;
