@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: "Mansalva", cursive;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   /*font-size: 16px;*/
   line-height: 1.7;
@@ -285,4 +285,11 @@ body {
 
 .projects {
   background-color: rgb(228, 220, 220);
+}
+
+.me {
+  width: 400px;
+  margin: 20px;
+  border-radius: 50%;
+  border: 5px solid #1f1f1f;
 }
